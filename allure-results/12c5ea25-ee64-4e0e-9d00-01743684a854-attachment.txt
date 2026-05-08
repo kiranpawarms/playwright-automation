@@ -1,0 +1,6 @@
+Top-of-grid po_num before import: 898878
+Supplier committed: "026-Shanwei Hengweiye Technology Co., Ltd"
+Uploading CSV (278 bytes), nonce=21314181
+Post-submit URL: https://dev.mobilesentrix.com/devadmin/Purchase_Orders/List/key/c961ebeab5500dd2b6a2b001e8fbb80e/
+Top-of-grid po_num after import: 898880
+Top row after import (truncated):  A1 May 8, 2026 May 8, 2026 026-Shanwei Hengweiye Technology Co., Ltd 026 Inventory Created N/A N/A FedEx - 1 CN¥72.75 CN¥0.00 CN¥72.75 Edit

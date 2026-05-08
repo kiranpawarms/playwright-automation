@@ -1,0 +1,2 @@
+LCD inner body display: block
+LCD products loaded: no (empty in dev)

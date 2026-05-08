@@ -1,0 +1,3 @@
+PO created — internal po_num: 898882
+SKU added for removal test: CARTEXTRA19
+Resolved product_id for CARTEXTRA19: 3104409

@@ -1,0 +1,3 @@
+Consignment grid: https://dev.mobilesentrix.com/devadmin/consignment/index/key/6ac82b44a3c134d4e67c3cd9b097a112/
+Post-save URL: https://dev.mobilesentrix.com/devadmin/consignment/edit/po_num/898873/key/2e11b913076adea964f9c793207b92d4/
+New consignment PO id: 898873

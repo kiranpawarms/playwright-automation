@@ -1,0 +1,3 @@
+Seeded PO — po_num=898879
+Filtered grid: 20 rows on the current page
+Sample status texts (first 5): ["Created","Created","Created","Created","Created"]

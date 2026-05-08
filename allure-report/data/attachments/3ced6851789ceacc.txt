@@ -1,0 +1,5 @@
+Top-of-grid po_num before invalid upload: 898881
+Post-submit URL: https://dev.mobilesentrix.com/devadmin/Purchase_Orders/import/key/43a8acd81f99c77cf89f8a350a4baa4c/
+error elements: ["An error occurred : File was not uploaded"]
+alertText: ""
+Top-of-grid po_num after invalid upload: 898883

@@ -1,0 +1,4 @@
+Top row — po_num=898878, reference=20260507PO6
+Downloaded "purchase_orders.csv" — 366352 bytes
+CSV header: "Box ID / Reference","Created Date","Received Date","Expected Delivery Date","Delivery Date","Supplier Name","Supplier Code","Warehouse","PO Order Status","Verification Status","Payment Status","PO Master Status","Tracking #","PO Amount","Paid","Remaining Due","Total SKU","PO Qty","Delivery (%)","Grid Filter Icon","Raise Dispute"
+CSV row count (incl. header): 1669
