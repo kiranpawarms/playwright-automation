@@ -1,0 +1,2 @@
+Total customers reported by grid: 81896
+Page 1 row count after setting size=20: 27

@@ -1,0 +1,50 @@
+LIMIT-LIKE SELECTS: [
+  {
+    "name": "limit",
+    "id": "",
+    "class": "",
+    "value": "20",
+    "optionsCount": 9,
+    "firstOpts": [
+      "20:20",
+      "30:30",
+      "50:50",
+      "100:100",
+      "200:200",
+      "500:500",
+      "1000:1000",
+      "2000:2000"
+    ]
+  }
+]
+PAGER HTML: <td class="pager">
+            Page
+                                                    <img src="https://static-nonprod.mobilesentrix.com/dev-skin/adminhtml/default/default/images/pager_arrow_left_off.gif" alt="Go to Previous page" class="arrow">
+            
+            <input type="text" name="page" value="1" class="input-text page" onkeypress="customerGridJsObject.inputPage(event, '4095')">
+
+                            <a href="#" title="Next page" onclick="customerGridJsObject.setPage('2');return false;"><img src="https://static-nonprod.mobilesentrix.com/dev-skin/adminhtml/default/default/images/pager_arrow_right.gif" alt="Go to Next page" class="arrow"></a>
+            
+            of 4095 pages            <span class="separator">|</span>
+            View            <select name="limit" onchange="customerGridJsObject.loadByElement(this)">
+                <option value="20" selected="selected">20</option>
+                <option value="30">30</option>
+                <option value="50">50</option>
+                <option value="100">100</option>
+                <option value="200">200</option>
+                <option value="500">500</option>
+                <option value="1000">1000</option>
+                <option value="2000">2000</option>
+                <option value="3000">3000</option>
+            </select>
+            per page<span class="separator">|</span>
+            Total 81896 records found            <span id="customerGrid-total-count" class="no-display">81896</span>
+                                </td>
+PAGE INPUTS: [
+  {
+    "name": "page",
+    "id": "",
+    "value": "1"
+  }
+]
+RECORD-COUNT TEXT: []

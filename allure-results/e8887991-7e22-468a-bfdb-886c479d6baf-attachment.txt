@@ -1,0 +1,194 @@
+SELECTS: [
+  {
+    "name": "limit",
+    "id": "",
+    "class": "",
+    "options": [
+      "20",
+      "30",
+      "50",
+      "100",
+      "200",
+      "500",
+      "1000",
+      "2000",
+      "3000"
+    ],
+    "visible": true
+  },
+  {
+    "name": "customerGrid_export",
+    "id": "customerGrid_export",
+    "class": "",
+    "options": [
+      "https://dev.mobilesentrix.com/devadmin/customer/exportCsv/key/d8064e1f19d96d1df5a6992d477fd6bc/"
+    ],
+    "visible": true
+  },
+  {
+    "name": "",
+    "id": "customerGrid_massaction-select",
+    "class": "required-entry select absolute-advice local-validation",
+    "options": [
+      "",
+      "delete",
+      "newsletter_subscribe",
+      "newsletter_unsubscribe",
+      "update_customer_attribute",
+      "change_store",
+      "change_group",
+      "change_manager",
+      "masschange_fraud_status",
+      "change_account_status"
+    ],
+    "visible": true
+  },
+  {
+    "name": "massaction",
+    "id": "customerGrid_filter_massaction",
+    "class": "no-changes",
+    "options": [
+      "",
+      "1",
+      "0"
+    ],
+    "visible": true
+  },
+  {
+    "name": "store_id",
+    "id": "customerGrid_filter_store_id",
+    "class": "no-changes",
+    "options": [
+      "",
+      "14",
+      "18",
+      "2",
+      "15",
+      "12",
+      "27",
+      "1",
+      "23",
+      "26"
+    ],
+    "visible": true
+  },
+  {
+    "name": "group",
+    "id": "customerGrid_filter_group",
+    "class": "no-changes",
+    "options": [
+      "",
+      "21",
+      "18",
+      "9",
+      "22",
+      "16",
+      "5"
+    ],
+    "visible": true
+  },
+  {
+    "name": "billing_country_id",
+    "id": "customerGrid_filter_billing_country_id",
+    "class": "no-changes",
+    "options": [
+      "",
+      "UAE",
+      "1",
+      "AF",
+      "AL",
+      "DZ",
+      "AS",
+      "AD",
+      "AO",
+      "AI"
+    ],
+    "visible": true
+  },
+  {
+    "name": "sales_manager",
+    "id": "customerGrid_filter_sales_manager",
+    "class": "no-changes customemultiselect SumoUnder",
+    "options": [
+      "3907",
+      "3836",
+      "3281",
+      "unassigned",
+      "3945"
+    ],
+    "visible": true
+  },
+  {
+    "name": "fraudstatus",
+    "id": "customerGrid_filter_fraudstatus",
+    "class": "no-changes customemultiselect SumoUnder",
+    "options": [
+      "2643",
+      "2646",
+      "2649",
+      "2652",
+      "1670",
+      "2398",
+      "30858",
+      "1673",
+      "1676",
+      "1664"
+    ],
+    "visible": true
+  },
+  {
+    "name": "describes_business",
+    "id": "customerGrid_filter_describes_business",
+    "class": "no-changes customemultiselect SumoUnder",
+    "options": [
+      "1691",
+      "32187",
+      "32186",
+      "1688",
+      "32188",
+      "1706",
+      "1685",
+      "1703",
+      "32184",
+      "1709"
+    ],
+    "visible": true
+  }
+]
+NAV ELEMENTS: [
+  {
+    "tag": "A",
+    "text": "Fraud Prevention",
+    "title": null,
+    "class": "",
+    "id": ""
+  },
+  {
+    "tag": "A",
+    "text": "Pages",
+    "title": null,
+    "class": "",
+    "id": ""
+  },
+  {
+    "tag": "A",
+    "text": "Pages to Index",
+    "title": null,
+    "class": "",
+    "id": ""
+  },
+  {
+    "tag": "A",
+    "text": "HomePage Management",
+    "title": null,
+    "class": "",
+    "id": ""
+  },
+  {
+    "tag": "A",
+    "text": "",
+    "title": "Next page",
+    "class": "",
+    "id": ""
+  }
+]

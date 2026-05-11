@@ -1,0 +1,154 @@
+TABLES: [
+  {
+    "id": "",
+    "class": "",
+    "rowCount": 3
+  },
+  {
+    "id": "",
+    "class": "",
+    "rowCount": 1
+  },
+  {
+    "id": "",
+    "class": "actions",
+    "rowCount": 1
+  },
+  {
+    "id": "",
+    "class": "massaction",
+    "rowCount": 1
+  },
+  {
+    "id": "customerGrid_table",
+    "class": "data",
+    "rowCount": 20
+  },
+  {
+    "id": "",
+    "class": "",
+    "rowCount": 1
+  }
+]
+ROW SAMPLE: [
+  {
+    "i": 0,
+    "class": "even",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 1,
+    "class": "",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 2,
+    "class": "even",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 3,
+    "class": "",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 4,
+    "class": "even",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 5,
+    "class": "",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 6,
+    "class": "even",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 7,
+    "class": "",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 8,
+    "class": "even",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 9,
+    "class": "",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 10,
+    "class": "even",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 11,
+    "class": "",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 12,
+    "class": "even",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 13,
+    "class": "",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 14,
+    "class": "even",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 15,
+    "class": "",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 16,
+    "class": "even",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 17,
+    "class": "",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 18,
+    "class": "even",
+    "visible": true,
+    "firstCell": ""
+  },
+  {
+    "i": 19,
+    "class": "",
+    "visible": true,
+    "firstCell": ""
+  }
+]
