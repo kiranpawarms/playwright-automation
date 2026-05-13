@@ -1,0 +1,4 @@
+Grid reports total customers: 81912
+Pager reports 4096 pages; expected 4096 (= ceil(81912 / 20))
+Page 1 row count: 20
+Page 2 row count: 20

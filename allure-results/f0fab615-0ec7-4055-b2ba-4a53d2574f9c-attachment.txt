@@ -1,0 +1,4 @@
+Grid reports total customers: 81912
+Expected pages: 4096, expected last-page rows: 12
+Page 1 row count: 20
+Last page (4096) row count: 20

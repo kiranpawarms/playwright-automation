@@ -1,0 +1,2 @@
+Found 26 column headers: ["Select","Store","ID","Store Location","Name","Company","Email","Credit Balance","Group","Discount Rate(%)","Net Term Due","Mobile","ZIP","City","State/Province","Country","Account  Representative","Account  Status","Business  Type","Last Order On","Purchases Made Range A","Purchases Made Range B","Grid Filter Icon","How did you find us?","Parent ID","Action"]
+Customer grid has 20 visible rows on the current page

@@ -67,4 +67,24 @@ export class CustomerPage {
     await this.nextPageButton.click();
     await expect(this.pageInput).toHaveValue(expectedNext, { timeout: 15000 });
   }
+
+  /**
+   * Read the grid's reported total record count from the hidden span next to
+   * the pager (e.g. "1,234 records found").
+   */
+  async getTotalCount(): Promise<number> {
+    const txt = await this.page.locator('#customerGrid-total-count').textContent();
+    return Number((txt || '').replace(/[^\d]/g, ''));
+  }
+
+  /**
+   * Read the total number of pages from the pager label "of X pages".
+   * Magento renders this next to the page input.
+   */
+  async getTotalPages(): Promise<number> {
+    const pagerText = await this.page.locator('td.pager').first().textContent();
+    const m = (pagerText || '').match(/of\s+([\d,]+)\s+pages?/i);
+    if (!m) throw new Error(`Could not parse total pages from pager: "${pagerText}"`);
+    return Number(m[1].replace(/,/g, ''));
+  }
 }
